@@ -10,4 +10,4 @@ require 'hashtags/variable'
 require 'hashtags/engine'
 require 'hashtags/version'
 
-require 'rails-assets-jquery-textcomplete'
+# require 'rails-assets-jquery-textcomplete'
